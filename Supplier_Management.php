@@ -15,9 +15,12 @@
         </script> 
         <?php
             include_once("connection.php");
-            if(isset($_GET["function"])=="del") {
-                if(isset($_GET['id'])) {
-                    $id = $_GET['id'];
+            if(isset($_GET["function"])=="del") 
+            {
+                if(isset($_GET["id"])) 
+                {
+                
+                    $id = $_GET["id"];
                     mysqli_query($conn, "DELETE FROM suppier WHERE sup_id='$id'");
                 }
             }
