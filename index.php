@@ -61,8 +61,7 @@
 					<div class="col-sm-6">
 						<div class="social-icons pull-right">
 							<ul class="nav navbar-nav">
-								<li><a href="https://www.facebook.com/profile.php?id=100010397374467"><i class="fa fa-facebook"></i></a></li>
-								<li><a href="https://www.instagram.com/hojuz190602/"><i class="fa fa-instagram"></i></a></li>
+								<li><a href=""><i class="fa fa-instagram"></i></a></li>
 								<li><a href="#"><i class="fa fa-linkedin"></i></a></li>								
 								<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
 							</ul>
@@ -222,11 +221,9 @@
                 <div class="col-md-3 col-sm-6">
                     <div class="footer-about-us">
                         <h2>A<span>TN</span></h2>
-                        <p>ATN is one of those toy stores that grows fast and stable regardless of favorable or difficult economic situation. ATN store chain was established in 2023,
-                             specializing in retailing toy products for children over 13 years old.</p>
+                        <p>ATN is a toy store that is most popular with young people today with a number of stores spread across Vietnam.</p>
                         <div class="footer-social">
-                            <a href="https://www.facebook.com/profile.php?id=100010397374467" target="_blank"><i class="fa fa-facebook"></i></a>
-                            <a href="https://www.instagram.com/hojuz190602/" target="_blank"><i class="fa fa-instagram"></i></a>
+                           
                             <a href="#" target="_blank"><i class="fa fa-youtube"></i></a>
                         </div>
                     </div>
