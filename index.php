@@ -53,8 +53,8 @@
 					<div class="col-sm-6">
 						<div class="contactinfo" >
 							<ul class="nav nav-pills">
-								<li><a href="#"><i class="fa fa-phone"></i> +84 155 377</a></li>
-								<li><a href="#"><i class="fa fa-envelope"></i> atnstore@gmail.com</a></li>
+								<li><a href="#"><i class="fa fa-phone"></i> 0866581786</a></li>
+								<li><a href="#"><i class="fa fa-envelope"></i> ATNSTORE@gmail.com</a></li>
 							</ul>
 						</div>
 					</div>
